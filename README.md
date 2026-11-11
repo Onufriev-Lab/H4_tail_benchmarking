@@ -1,4 +1,4 @@
-# H4tailSAXSMDAnalyzer
+# H4_tail_benchmarking
 
 <img width="6015" height="2523" alt="H4SAXSMDgraphic" src="https://github.com/user-attachments/assets/4f9d8087-85f7-451c-98fb-393d7e97f9df" />
 
