@@ -17,7 +17,7 @@ The folder ExampleData contains an example GAJOE results output folder.
 The analysis should only require a standard computer that is able to run the commonly available software below, with enough memory to complete moderate intensity computing tasks. <br />
 
 **Software Notes** <br />
-Molecular dynamics simulations are run using __ <br />
+Molecular dynamics simulations are run using AMBER 24 <br />
 MATLAB R2021 or later may be required <br />
 
 **License** <br />
