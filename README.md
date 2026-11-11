@@ -1,9 +1,9 @@
-# H4_tail_benchmarking
+# IDP MD-SAXS benchmarking
 
-<img width="6015" height="2523" alt="H4SAXSMDgraphic" src="https://github.com/user-attachments/assets/4f9d8087-85f7-451c-98fb-393d7e97f9df" />
+<img width="6112" height="2812" alt="H4SAXSMDgraphic" src="https://github.com/user-attachments/assets/328c5a72-924c-43e9-93a6-d43f74d66d93" />
 
 **Overview** <br />
-Repository containing tools to compare intrinsically disordered protein structural ensembles generated from molecular dynamics with small-angle X-ray scattering (SAXS) data. <br />
+Repository containing tools to compare intrinsically disordered protein (IDP) structural ensembles generated from molecular dynamics (MD) with small-angle X-ray scattering (SAXS) data. <br />
 An example case is provided of the H4 histone tail, as part of the paper below. If you happen to use the code in this repository, please cite this paper. <br />
 **Tong Wang^, Egor S. Kolesnikov^, Lois Pollack, Alexey V. Onufriev. Combining atomistic simulation and solution scattering to reveal charge-driven histone H4 tail conformational changes. (2026, in submission)** <br />
 
