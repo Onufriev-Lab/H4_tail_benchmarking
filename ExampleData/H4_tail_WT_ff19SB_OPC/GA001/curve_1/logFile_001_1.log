@@ -1,0 +1,59 @@
+*******  ------------------------------------------------------  *******
+*******     GAJOE - version 2.1 - (r10552)                        *******
+*******     Copyright (c) ATSAS Team                             *******
+*******     EMBL, Hamburg Outstation, 2007 - 2015                *******
+*******                                                          *******
+*******     For doubts/questions please visit SAXIER forum:      *******
+*******     http://www.saxier.org/forum/viewforum.php?f=10       *******
+*******                                                          *******
+*******     In case of bugs please refer to:                     *******
+*******     G. Tria, D.I. Svergun, EMBL BioSAXS group            *******
+*******     atsas@embl-hamburg.de                                *******
+*******  ------------------------------------------------------  *******
+
+ Experimental data file name ............................ : H4WTna.dat
+ -------------------------------------------
+ -- Pool(s)
+ Intensities file name .................................. : H4WTOPCff19SB.int
+ RANCH log file name
+ SIZE_list file name .................................... : Size_list.txt
+ ---
+ -------------------------------------------
+ -- Standard Mode
+ Maximum number of curves per ensemble (min. 1, max. 50)  : 20
+ Minimum number of curves per ensemble (min. 1) ......... : 5
+ Constant subtraction allowed? .......................... : N
+ Curve repetition in the ensemble allowed? .............. : Y
+ Number of times you want the genetic algorithm repeated (min. 1): 100
+ -------------------------------------------
+ -- Number of theoretical curves :         2000
+ -------------------------------------------
+ Start:  07/01/25 13:19:33       
+ End:    07/01/25 13:49:43       
+ -------------------------------------------
+ -- Chi^2 :  1.226
+ -------------------------------------------
+ -- Rflex (random) / Rsigma: ~ 77.72% (~ 90.95%) / 1.02
+ -------------------------------------------
+ -- Constant subtracted :  0.000
+ -------------------------------------------
+ -- Files created:
+ Fit to the experimental data (in 1/angstrom) ........... : profiles_001_1.fit
+ Radius of gyration distribution (in angstrom) .......... : Rg_distr_001_1.txt
+ Max Dimensions distribution (in angstrom) .............. : Size_distr_001_1.txt
+ Ca(N)-Ca(C) distances distribution (in angstrom) ....... : CaCa_distr_001_1.txt
+ Volume distribution (in angstrom) ...................... : Volume_distr_001_1.txt
+ -------------------------------------------
+ -- PDB models in the folder "GA001\curve_1\pdb":
+  #  Filename                 Rg       Dmax     Fraction        
+
+  1) 01093TOPCff19SB.pdb    12.82      38.45    ~0.111.00   9
+  2) 01592TOPCff19SB.pdb    18.75      59.54    ~0.565.00   9
+  3) 01623TOPCff19SB.pdb    13.46      36.72    ~0.222.00   9
+  4) 01734TOPCff19SB.pdb    15.10      46.37    ~0.111.00   9
+
+ Final ensemble :           16.51      50.66
+ 
+ -------------------------------------------
+ N.B. Please check the filename associated to each model in the file RanchXXX.log
+ -------------------------------------------
