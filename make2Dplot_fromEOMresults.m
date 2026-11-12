@@ -10,7 +10,7 @@
 %
 clear; close all
 
-%% User entered parameters
+%% User-defined parameters
 dir = 'ExampleData/H4_tail_WT_ff19SB_OPC/GA001/curve_1';
 nRuns = 100; % What you entered for: Number of times you want the genetic algorithm repeated (min. 1, default: 100)
 curvesPerEnsemble = 20; % What you entered for: Maximum number of curves per ensemble (min. 1, max. 50) 
