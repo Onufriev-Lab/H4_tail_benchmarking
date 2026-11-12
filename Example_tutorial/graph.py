@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-folder = Path("GA003/curve_1")
+folder = Path("GA001/curve_1")
 
 def read_numeric(path, min_cols=3):
     rows = []
