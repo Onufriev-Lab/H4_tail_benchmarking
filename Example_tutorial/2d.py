@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Input files
 size_file = Path("size_statistics_20.csv")
-selected_dir = Path("GA003/curve_1/pdbs")
+selected_dir = Path("GA001/curve_1/pdbs")
 
 # Read pool statistics
 rg, ree, names = [], [], []
